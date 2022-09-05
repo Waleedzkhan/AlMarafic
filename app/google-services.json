@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "49127751768",
+    "firebase_url": "https://almarafiq-28ef0.firebaseio.com",
+    "project_id": "almarafiq-28ef0",
+    "storage_bucket": "almarafiq-28ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49127751768:android:5554382e45849eea06ca2d",
+        "android_client_info": {
+          "package_name": "com.haroon.io.almarafiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49127751768-n2gurspuo409o21bh5ud1i0g1t8ouskh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxHVwm2a0liqDiJhA2mcyAC99dJY5-Gvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49127751768-n2gurspuo409o21bh5ud1i0g1t8ouskh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
